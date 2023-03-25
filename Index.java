@@ -1,3 +1,10 @@
+//SIT/B/01-56117/2021   JOHN LUTTA MUNYENDO
+//SIT/B/01-04128/2021   MORGAN MUSIBI
+//SIT/B/01-02299/2021   NEMROD SHIHEMI
+//SIT/B/01-04183/2021   KORIR KEVIN
+
+
+
 Public class MMUSTLinkedIn {
     
     // Inner class to support different operations related to LinkedIn
@@ -14,8 +21,7 @@ Public class MMUSTLinkedIn {
             // Accept Invitation logic
         }
     }
-}
-[2/16, 10:40] Brian Sammy: // Stack class 
+} 
 class Stack {
     static final int MAX = 1000; 
     int top; 
@@ -52,7 +58,7 @@ class Stack {
         else { 
             int x = a[top--]; 
             return x;
-[2/16, 10:42] Brian Sammy: // Stack class 
+ 
 class Stack {
     static final int MAX = 1000; 
     int top; 
